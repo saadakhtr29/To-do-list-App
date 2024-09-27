@@ -36,3 +36,12 @@ function showTask(){
     listContainer.innerHTML = localStorage.getItem("data");
 }
 showTask();
+
+let btn = document.getElementById("btn");
+
+inputBox.addEventListener("keyup" , e => {
+    e.preventDefault();
+    if(e.key === "Enter"){
+        addTask();
+    }   
+});
