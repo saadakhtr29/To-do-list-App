@@ -2,7 +2,7 @@
 
 This is a simple To-Do List App built using HTML, CSS, and JavaScript. The app allows users to add tasks to a list and display them on the page.
 
-<br>
+<h3>Check it out at: https://to-do-list-app-saad-akhtars-projects.vercel.app</h3>
 
 <h2>Overview</h2>
 <li> <b>HTML Structure:</b> The project uses a basic HTML structure with a head section containing metadata, a title, and links to an external stylesheet (index.css) and a favicon (icon.png).
