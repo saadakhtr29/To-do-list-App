@@ -1,6 +1,6 @@
 {
     "name": "To-Do List",
-    "short_name": "To-Do",
+    "short_name": "To-Do List",
     "start_url": "/index.html",
     "display": "standalone",
     "background_color": "linear-gradient(135deg, #153677, #4e085f)",
